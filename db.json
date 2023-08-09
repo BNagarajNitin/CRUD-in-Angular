@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "B Nagaraj",
+      "lastName": "Nitin",
+      "email": "bnagarajnitin@gmail.com",
+      "dob": "1998-11-26T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "pentachrome",
+      "experience": 2,
+      "package": 7,
+      "id": 1
+    },
+    {
+      "firstName": "pramod",
+      "lastName": "cr",
+      "email": "pammi@gmail.com",
+      "dob": "2002-01-24T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "smc square",
+      "experience": 2,
+      "package": 5,
+      "id": 2
+    },
+    {
+      "firstName": "prashanth",
+      "lastName": "h",
+      "email": "prashu@gmail.com",
+      "dob": "2001-01-26T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "yati software ",
+      "experience": 1,
+      "package": 4,
+      "id": 3
+    },
+    {
+      "firstName": "vineet",
+      "lastName": "S",
+      "email": "vineeths@gmail.com",
+      "dob": "1999-10-26T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "TCS",
+      "experience": 3,
+      "package": 8,
+      "id": 4
+    }
+  ]
+}
